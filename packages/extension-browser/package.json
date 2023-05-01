@@ -98,7 +98,7 @@
     "terser-webpack-plugin": "^5.2.4",
     "typed-css-modules": "^0.7.0",
     "typescript": "^4.3.5",
-    "util": "^0.12.4",
+    "util": "^0.12.5",
     "util.promisify": "^1.1.1",
     "web-ext": "^6.5.0",
     "webpack": "^5.56.1",
