@@ -30,7 +30,7 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-markdown": "^2.2.1",
     "fork-ts-checker-webpack-plugin": "^6.2.12",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.1.1",
     "handlebars": "^4.7.7",
     "hint": "^6.1.8",
     "inquirer": "^8.1.5",
