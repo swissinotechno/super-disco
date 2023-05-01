@@ -595,10 +595,10 @@
   dependencies:
     chokidar "*"
 
-"@types/chrome@^0.0.149":
-  version "0.0.149"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.149.tgz#da90f63ffab5571dad871db75f02a26fc7b3542d"
-  integrity sha512-JDhaXtMXqkRAzXbj4pOTciZytHSXmIOvlDDVLQdb++UdGP8fKCN4OZ0HgAq+ycFeIxzUiwlRaGmFD9mSiZRMnA==
+"@types/chrome@^0.0.234":
+  version "0.0.234"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.234.tgz#29e5278c655e385c6e3b1b76093aaef7bfbf6def"
+  integrity sha512-4JofeJBUPFf8Qy9ZiOif5jp5V4tG/WaFVPyb11E6Zmvx1q5j+X7LR/zWmj3lhbliaFxTMY/51GjMdpZOiUWjqQ==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
