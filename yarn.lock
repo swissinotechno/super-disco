@@ -2611,19 +2611,19 @@ clone@^1.0.2:
   resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.4.tgz#da309cc263df15994c688ca902179ca3c7cd7c7e"
   integrity sha1-2jCcwmPfFZlMaIypAheco8fNfH4=
 
-cloudinary-core@^2.10.2:
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/cloudinary-core/-/cloudinary-core-2.11.2.tgz#01950e7c1e7c373d7a8141c18b7ddfc54374b75d"
-  integrity sha512-Dl545+AzPRGjx58cXB9gznXtA1dol0pmDqTxHos1hRcdbUcpUcuVzPkBnJjNO3F4K6BfZ5kSda9kzD+Qu7Yhgg==
+cloudinary-core@^2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/cloudinary-core/-/cloudinary-core-2.13.0.tgz#b59f90871b6c708c3d0735b9be47ac08181c57fb"
+  integrity sha512-Nt0Q5I2FtenmJghtC4YZ3MZZbGg1wLm84SsxcuVwZ83OyJqG9CNIGp86CiI6iDv3QobaqBUpOT7vg+HqY5HxEA==
 
-cloudinary@^1.27.1:
-  version "1.27.1"
-  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.27.1.tgz#41abace12827dd1edc06ff511d8da2e261b3845f"
-  integrity sha512-NrSVdzD2yJUMwL4UTfOjlq+bkc88SaNoZjhibLnpI40c46vfIlz2Y77R9HfgYIQ1Lx/k+U1WKZuiQ5Z2Wd2Dsg==
+cloudinary@^1.40.0:
+  version "1.40.0"
+  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.40.0.tgz#34a7de414b4526021c8e25cc66c3122721d91be6"
+  integrity sha512-Fifkl8NRw/M+Enw4cKCXc6e0Or28c5y6RVGYS3OCLzT1W8EfBt416FURhLuuL/S4BCVv8bSilmnM746kCtth3g==
   dependencies:
-    cloudinary-core "^2.10.2"
-    core-js "3.6.5"
-    lodash "^4.17.11"
+    cloudinary-core "^2.13.0"
+    core-js "^3.30.1"
+    lodash "^4.17.21"
     q "^1.5.1"
 
 code-excerpt@^3.0.0:
@@ -2845,10 +2845,10 @@ core-js@3.18.0:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.18.0.tgz#9af3f4a6df9ba3428a3fb1b171f1503b3f40cc49"
   integrity sha512-WJeQqq6jOYgVgg4NrXKL0KLQhi0CT4ZOCvFL+3CQ5o7I6J8HkT5wd53EadMfqTDp1so/MT1J+w2ujhWcCJtN7w==
 
-core-js@3.6.5:
-  version "3.6.5"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.5.tgz#7395dc273af37fb2e50e9bd3d9fe841285231d1a"
-  integrity sha512-vZVEEwZoIsI+vPEuoF9Iqf5H7/M3eeQqWlQnYa8FSKKePuYTf5MWnxb5SDAzCa60b3JBRS5g9b+Dq7b1y/RCrA==
+core-js@^3.30.1:
+  version "3.32.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.32.0.tgz#7643d353d899747ab1f8b03d2803b0312a0fb3b6"
+  integrity sha512-rd4rYZNlF3WuoYuRIDEmbR/ga9CeuWX9U05umAvgrrZoHY4Z++cp/xwPQMvUpBB4Ag6J8KfD80G0zwCyaSxDww==
 
 core-util-is@1.0.2:
   version "1.0.2"
@@ -6456,7 +6456,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.3.0, lodash@^4.7.0:
+lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.3.0, lodash@^4.7.0:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
